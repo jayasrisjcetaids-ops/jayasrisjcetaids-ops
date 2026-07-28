@@ -1,10 +1,10 @@
-<a href="https://github.com/jayasrisjcetaids-ops">
+<a href="https://github.com/Jayasri-K-N">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jayasri%20K&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Python%20Developer%20%7C%20ML%20Explorer&descAlignY=58&descSize=17" />
 </a>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Jayasri+K+%F0%9F%91%8B;Building+Data-Driven+Solutions+with+AI+%F0%9F%A4%96;Python+%7C+Machine+Learning+%7C+Generative+AI+%F0%9F%90%8D;Open+to+Internships+%26+Collaborations+%F0%9F%9A%80)](https://github.com/jayasrisjcetaids-ops)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Jayasri+K+%F0%9F%91%8B;Building+Data-Driven+Solutions+with+AI+%F0%9F%A4%96;Python+%7C+Machine+Learning+%7C+Generative+AI+%F0%9F%90%8D;Open+to+Internships+%26+Collaborations+%F0%9F%9A%80)](https://github.com/Jayasri-K-N)
 
 </div>
 
@@ -21,7 +21,7 @@ class JayasriK:
     Location = "Mannargudi, Tamil Nadu, India 🇮🇳"
     Degree   = "B.Tech – AI & Data Science (CGPA: 7.62)"
     College  = "St. Joseph's College of Engg & Tech, Thanjavur"
-    Email    = "jayasrisjcetaids@gmail.com"
+    Email    = "jayasrii1906@gmail.com"
 
     stack              = ["Python", "HTML", "Machine Learning",
                           "Generative AI", "Data Analysis"]
@@ -53,16 +53,16 @@ class JayasriK:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/jayasrisjcetaids-ops">
-    <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jayasrisjcetaids-ops&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=12" />
+  <a href="https://github.com/Jayasri-K-N">
+    <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jayasri-K-N&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=12" />
   </a>
-  <a href="https://github.com/jayasrisjcetaids-ops">
-    <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jayasrisjcetaids-ops&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=12" />
+  <a href="https://github.com/Jayasri-K-N">
+    <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jayasri-K-N&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=12" />
   </a>
 </div>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=jayasrisjcetaids-ops&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=12" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=Jayasri-K-N&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=12" />
 </div>
 
 ---
@@ -70,7 +70,7 @@ class JayasriK:
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jayasrisjcetaids-ops&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&radius=8" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jayasri-K-N&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&radius=8" />
 </div>
 ---
 
@@ -80,9 +80,9 @@ class JayasriK:
 
 | Project | Stack | What it does |
 |:--------|:------|:-------------|
-| 🦯 [**Smart Blind Stick**](https://jayasrisjcetaids-ops.github.io/Smart-Blind-Stick/) | Arduino UNO · Sensors · Embedded C | Prototype to assist visually impaired individuals — obstacle detection with sensor-based alerts for safer navigation |
-| 📊 [**IBM Cognos Analytics Dashboard**](https://jayasrisjcetaids-ops.github.io/IBM-Cognos-Dashboard/) | IBM Cognos Analytics | Interactive dashboards & reports that visualize business data to support data-driven decisions |
-| 🏥 [**MediCare Hospital Website**](https://jayasrisjcetaids-ops.github.io/MediCare-Hospital/) | HTML | Hospital info website with clean, user-friendly navigation |
+| 🦯 [**Smart Blind Stick**](https://Jayasri-K-N.github.io/Smart-Blind-Stick/) | Arduino UNO · Sensors · Embedded C | Prototype to assist visually impaired individuals — obstacle detection with sensor-based alerts for safer navigation |
+| 📊 [**IBM Cognos Analytics Dashboard**](https://Jayasri-K-N.github.io/IBM-Cognos-Dashboard/) | IBM Cognos Analytics | Interactive dashboards & reports that visualize business data to support data-driven decisions |
+| 🏥 [**MediCare Hospital Website**](https://Jayasri-K-N.github.io/MediCare-Hospital/) | HTML | Hospital info website with clean, user-friendly navigation |
 
 </div>
 
@@ -132,8 +132,8 @@ class JayasriK:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-jayasrisjcetaids-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayasrisjcetaids@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-jayasrisjcetaids--ops-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jayasrisjcetaids-ops)
+[![Gmail](https://img.shields.io/badge/Gmail-jayasrii1906-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayasrii1906@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Jayasri--K--N-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jayasri-K-N)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jayasri--k-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayasri-k-7a5805307)
 [![Open to Work](https://img.shields.io/badge/Open%20To-Internships%20%26%20Collaborations-38BDAE?style=for-the-badge&logo=handshake&logoColor=white)](#)
 
